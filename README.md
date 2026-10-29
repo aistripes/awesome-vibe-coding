@@ -704,6 +704,7 @@ Measure AI coding capabilities.
 | [Aider Leaderboard](https://aider.chat/docs/leaderboards/) | Benchmark | Compares AI models on real coding tasks. Updated regularly. |
 | [Vibe Coding Profiler](https://www.vibe-coding-profiler.com/) | Profiler | Analyzes git history to reveal your AI-assisted engineering style and vibe coding persona. |
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Record/Replay | Records an agent run below the harness and replays it offline with the network off, so a failure is reproducible instead of intermittent. Forks from any checkpoint onto another model to compare decisions from identical state. |
+| [hype or code](https://hypeorcode.com/) | Gallery | Side-by-side gallery of what each new OpenRouter model builds from the same prompts (Breakout game, landing page, SVG, HTML wristwatch), one shot each, with time and cost per run. |
 
 ---
 
